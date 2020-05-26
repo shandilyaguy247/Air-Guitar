@@ -36,7 +36,17 @@ To simulate different kinds of guitar effects in MATLAB, we created different fu
 
 ## Usage
 
-There are 7 parts of the code, each as an individual .m file. Merge them toghether in the same project, or select only the modules that you need.
+There are 7 parts of the code, each as an individual .m file.
+
+* The Primary_Code is the essential backbone
+* Create_Sound is also essential
+* Add_Effects is to be able to add the 4 effects:
+
+** Distortion 
+** Flanger 
+** Tremblo
+** Digital Delay
+
 
 ## Contributing
 Pull requests and any corrections to the codes are welcome. For major changes, please open an issue first to discuss what you would like to change.
