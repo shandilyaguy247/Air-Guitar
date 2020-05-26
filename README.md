@@ -41,11 +41,10 @@ There are 7 parts of the code, each as an individual .m file.
 * The Primary_Code is the essential backbone
 * Create_Sound is also essential
 * Add_Effects is to be able to add the 4 effects:
-
-** Distortion 
-** Flanger 
-** Tremblo
-** Digital Delay
+    *Distortion 
+    *Flanger 
+    *Tremblo
+    *Digital Delay
 
 
 ## Contributing
